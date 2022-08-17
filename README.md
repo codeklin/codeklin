@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-### Hi there 👋, I am Olajide
+### Hi there 👋,
+I am Olajide
 #### I'm a Designer and a Developer 
 I’m currently learning Software Engineering with ALX.
 - 🔭 I’m currently working on building several solution based wed applications.
