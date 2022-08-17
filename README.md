@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Software Enginnering with ALX.
+- 🔭 I’m currently working on building several solution based wed applications.
+
 <!--
 **codeklin/codeklin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
