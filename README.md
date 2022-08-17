@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Software Enginnering with ALX.
+- 🌱 I’m currently learning Software Engineering with ALX.
 - 🔭 I’m currently working on building several solution based wed applications.
 
 <!--
