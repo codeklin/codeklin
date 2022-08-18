@@ -5,7 +5,7 @@
 I am Olajide
 #### I'm a Designer and a Developer 
 I’m currently learning Software Engineering with ALX.
-- 🔭 I’m currently working on building several solution based wed applications.
+- 🔭 I’m currently working on building several web applications based solution.
 
 
 Skills: JS / HTML / CSS/ C
