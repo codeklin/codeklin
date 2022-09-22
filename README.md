@@ -8,7 +8,7 @@ I’m currently learning Software Engineering with ALX.
 - 🔭 I’m currently working on building several web applications based solution.
 
 
-Skills: C / JS / HTML / CSS 
+Skills:  HTML / CSS / JS / ReactJS / C / 
 
 
 ![Profile views](https://gpvc.arturio.dev/codeklin)  
