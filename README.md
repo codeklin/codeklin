@@ -5,10 +5,10 @@
 I am Olajide
 #### I'm a Designer and a Developer 
 
-- 🔭 I’m currently working on building several web applications based solution.
+- 🔭 I’m currently building <a href="https://gigsdev.com/">GIGSDEV</a>, a web based technology academy and solutions company.
 
 
-Skills:  HTML / CSS / Javascript / ReactJS / Django - Rest Framework 
+I am proficient at working with these skills:  HTML / CSS / Javascript / ReactJS / Django - Rest Framework 
 
 
 ![Profile views](https://gpvc.arturio.dev/codeklin)  
