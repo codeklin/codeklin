@@ -16,7 +16,6 @@ I am proficient at working with these tools:  Node.js  |  Express.js  |  HTML | 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeklin)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codeklin)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codeklin)  
 
 
 
