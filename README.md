@@ -10,7 +10,7 @@ I am Olajide Igbalaye
 
 I am proficient at working with these tools:  Node.js  |  Express.js  |  HTML | CSS | Javascript | ReactJS | Django - Rest Framework 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codeklin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/olajide-igbalaye//)  [<img src='https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous'>](https://x.com/https://mobile.x.com/JideLence)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codeklin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/olajide-igbalaye//)  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeklin)](https://github.com/anuraghazra/github-readme-stats)
