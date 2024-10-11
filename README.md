@@ -16,7 +16,7 @@ I am proficient at working with these tools:  Node.js  |  Express.js  |  HTML | 
 
 ![codeklin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codeklin&theme=vue-dark&hide_border=false)
 
-![codeklin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeklin&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)![codeklin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeklin&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![codeklin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeklin&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeklin)](https://github.com/anuraghazra/github-readme-stats)
 
