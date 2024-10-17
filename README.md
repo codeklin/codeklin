@@ -5,7 +5,7 @@
 I am Olajide Igbalaye
 #### A MERN stack fullstack developer.
 
-- 🔭 I’m currently building <a href="https://gigsdev.com/">GIGSDEV</a>, a web based technology academy and solutions company.
+- 🔭 I’m currently building <a href="[https://gigsdev.com/](https://codeklin.github.io/gigsdev.github.io/)">GIGSDEV</a>, a web based technology academy and solutions company.
 
 
 I am proficient at working with these tools:  Node.js  |  Express.js  |  HTML | CSS | Javascript | ReactJS | Django - Rest Framework 
