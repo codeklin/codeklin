@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olajide Igbalaye</h1>
-<h3 align="center">A MERN fullstack web developer, mobile app developer, and a designer</h3>
+<h3 align="center">An Ethical Hacker, Pentester, Cybersecurity Trainer, MERN fullstack web developer, mobile app developer, and a designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeklin&label=Profile%20views&color=0e75b6&style=flat" alt="codeklin" /> </p>
 
